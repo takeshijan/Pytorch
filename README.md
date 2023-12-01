@@ -1,6 +1,3 @@
-# **PyTorch** 
-[Pytorch](https://pytorch.org/) is a Python package that provides a GPU-ready tensor computation (like NumPy) with strong autograd capabilities and deep neural networks built on top of a tape-based autograd system. This combination makes PyTorch a versatile and powerful tool for machine learning applications.
-
 
 
 
